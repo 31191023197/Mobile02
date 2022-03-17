@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mickeymouse">
+        <item>https://i.pinimg.com/564x/53/e6/e1/53e6e1a61f0dbf0886f2a66210dff2a7.jpg</item>
+        <item>https://i.pinimg.com/564x/13/54/f8/1354f83a3ff4f6ae72cb28892915661c.jpg</item>
+        <item>https://i.pinimg.com/564x/40/24/00/4024008bdd380c212227bb4ab2143717.jpg</item>
+    </string-array>
+    <string-array name="pokemon">
+        <item>https://i.pinimg.com/564x/24/99/08/2499089443605bd59dd04d5312eed1d3.jpg</item>
+        <item>https://i.pinimg.com/564x/be/99/6a/be996a73b8029a03cb4f3b09f00d2c85.jpg</item>
+        <item>https://i.pinimg.com/564x/04/be/6b/04be6bec88b3366da48a6be4917a555e.jpg</item>
+    </string-array>
+    <string-array name="spiderman">
+        <item>https://i.pinimg.com/564x/76/e0/61/76e061b908c5fc3324f8c317b22760b6.jpg</item>
+        <item>https://i.pinimg.com/564x/e5/6c/04/e56c041c3697b99bc806bd1581abcdfc.jpg</item>
+        <item>https://i.pinimg.com/564x/bc/08/cc/bc08cc89f2d827a55903b721c47c54e9.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/mickeymouse</item>
+        <item>@array/pokemon</item>
+        <item>@array/spiderman</item>
+    </array>
+</resources>
